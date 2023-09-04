@@ -1,5 +1,2 @@
-balmpho@gmail.com:/tmp/h$ ./0-hello_world 
-Hello, World
-balmpho@gmail.com:/tmp/h$ ./0-hello_world | cat -e
-Hello, World$
-balmpho@gmail.com:/tmp/h$ 
+#!/bin/bash/
+echo 'Hello, World'
